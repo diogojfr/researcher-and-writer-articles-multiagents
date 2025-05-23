@@ -46,7 +46,7 @@ The system is composed of the following AI agents, each with specialized roles:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/diogojfr/researcher-and-writer-articles-multiagents.git
-   cd multi-ai-agents
+   cd researcher-and-writer-articles-multiagents
 
 2. **Install dependencies**:
 
