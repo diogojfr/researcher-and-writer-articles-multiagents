@@ -84,6 +84,6 @@ The system is composed of the following AI agents, each with specialized roles:
 
 ## 🛠️ Customization
 
-    You can fine-tune each agent's behavior by editing their respective prompt templates in the tasks.yml file.
-
-    Additional agents can be added to expand capabilities (e.g., Fact Checker, SEO Optimizer).
+You can fine-tune each agent's behavior by editing their respective prompt templates in the tasks.yml file.
+<br> 
+Additional agents can be added to expand capabilities (e.g., Fact Checker, SEO Optimizer).
